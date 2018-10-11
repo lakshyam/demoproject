@@ -15,6 +15,5 @@ public class Test4 {
 	
 	stream.filter(p1.or(p2).and(p3)).forEach(System.out::println);
 	
-	
 	}	
 }
